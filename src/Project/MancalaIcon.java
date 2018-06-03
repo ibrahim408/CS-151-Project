@@ -1,5 +1,6 @@
 package Project;
 
+
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Graphics;
@@ -10,7 +11,9 @@ import java.util.Random;
 
 import javax.swing.Icon;
 /**
- * Style that creates circular pits.
+ * Style 
+
+import Project.MancalaStone;that creates circular pits.
  * @author Team Captain
  * Josh Gill, Ibrahim Ibrahim, Alexander Nguyen
  */
